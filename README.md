@@ -1,4 +1,4 @@
-# EH Psedopanel Building
+# EH Pseudopanel Building
 
 This repository contains a complete Stata workflow for constructing a pseudopanel from the Bolivian Household Surveys (EH) between 2015 and 2023. It performs year-by-year cleaning, merges complementary modules, and appends all years into a harmonized dataset.
 
