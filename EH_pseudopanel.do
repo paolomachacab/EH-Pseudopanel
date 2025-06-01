@@ -1,4 +1,4 @@
-* EH Panel Building Script  
+* EH Pseudopanel Building Script  
 * Author: Paolo Machaca
 
 clear all
